@@ -1,5 +1,8 @@
 FROM arm32v6/alpine:3.10
 
+# Uncomment next line if building in x86 host
+COPY qemu-arm-static /usr/bin/
+
 # This hack is widely applied to avoid python printing issues in docker containers.
 # See: https://github.com/Docker-Hub-frolvlad/docker-alpine-python3/pull/13
 ENV PYTHONUNBUFFERED=1
