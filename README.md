@@ -1,5 +1,6 @@
-[![Docker Stars](https://img.shields.io/docker/stars/zurajm/docker-alpine-python3.svg?style=flat-square)](https://hub.docker.com/repository/docker/zurajm/docker-alpine-python3/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/zurajm/docker-alpine-python3.svg?style=flat-square)](https://hub.docker.com/repository/docker/zurajm/docker-alpine-python3/)
+![Docker Build Status](https://img.shields.io/docker/build/zurajm/alpine-python3?style=flat-square)
+![Docker Stars](https://img.shields.io/docker/stars/zurajm/alpine-python3?style=flat-square)
+![Docker Pulls](https://img.shields.io/docker/pulls/zurajm/alpine-python3?style=flat-square)
 
 
 Python 3.7 Docker image - Multiarch build
@@ -12,7 +13,7 @@ This image is based on Alpine Linux image, which is only a 5MB image, and contai
 
 Download size of this image is only:
 
-[![](https://images.microbadger.com/badges/image/zurajm/docker-alpine-python3.svg)](http://microbadger.com/images/zurajm/docker-alpine-python3 "Get your own image badge on microbadger.com")
+![MicroBadger Size (tag)](https://img.shields.io/microbadger/image-size/zurajm/alpine-python3/latest?style=flat-square)
 
 
 Usage Example
