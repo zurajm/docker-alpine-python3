@@ -1,4 +1,4 @@
-![Docker Build Status](https://img.shields.io/docker/build/zurajm/alpine-python3?style=flat-square)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/zurajm/alpine-python3?style=flat-square)
 ![Docker Stars](https://img.shields.io/docker/stars/zurajm/alpine-python3?style=flat-square)
 ![Docker Pulls](https://img.shields.io/docker/pulls/zurajm/alpine-python3?style=flat-square)
 
