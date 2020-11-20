@@ -1,4 +1,4 @@
-FROM arm64v8/alpine:3.10
+FROM arm64v8/alpine:3.12
 
 # Uncomment next line if building in x86 host
 COPY qemu-aarch64-static /usr/bin/
